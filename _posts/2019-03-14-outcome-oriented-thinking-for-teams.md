@@ -6,16 +6,11 @@ author: Tim Schnell
 layout: post
 guid: https://tims.io/?p=2403
 permalink: "/outcome-oriented-thinking-for-teams/"
-image: ''
+bigimg: /wp-content/uploads/2019/03/Screen-Shot-2019-03-12-at-5.46.03-PM.png
 categories:
 - Blog
 
 ---
-***
-
-bigimg: /wp-content/uploads/2019/03/Screen-Shot-2019-03-12-at-5.46.03-PM.png
-
-***
 
 **Outcome-oriented thinking** is the ability to focus on the desired results, instead of the process, effort or tactics that you take to get there. It is the idea that nothing else matters other than achieving the results. The process that you take or the effort that you put in, while they are contributors to the final outcome, are not necessarily the drivers to focus on.
 
