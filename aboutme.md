@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-subtitle: ''
+title: Tim Schnell
+subtitle: About the author
 
 ---
 I focus on creating accountability, tracking metrics, and cultivating a culture of mentorship and collaboration. I build engineering teams that think about the product holistically and learn to balance cross-functional planning, velocity and quality.
