@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: ''
+
 ---
+I focus on creating accountability, tracking metrics, and cultivating a culture of mentorship and collaboration. I build engineering teams that think about the product holistically and learn to balance cross-functional planning, velocity and quality.  
+  
+Currently, I live in the suburbs of Austin, Texas with my wife, Tina, and 3 kids, Owen, Harper, and Charlie. I am half-Mexican and half-German and was born and raised in Texas so I naturally love tacos and beer. In my spare time I enjoy indoctrinating my children into my nerdy hobbies like video/board games, superhero movies and books.
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Thoughts and opinions represented here are Tim’s own, find him on twitter [@timductive](https://twitter.com/timductive).
