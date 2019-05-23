@@ -9,7 +9,7 @@ dsq_thread_id:
 - '3534114259'
 
 ---
-<a href="http://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730/ref=sr_1_1?ie=UTF8&qid=1424473354&sr=8-1&keywords=learning+python" target="_blank"><img class="alignleft wp-image-2231 size-thumbnail" src="http://tims.io/wp-content/uploads/2015/02/9k-150x150.jpg" alt="9k=" width="150" height="150" srcset="https://tims.io/wp-content/uploads/2015/02/9k-150x150.jpg 150w, https://tims.io/wp-content/uploads/2015/02/9k-60x60.jpg 60w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+<a href="http://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730/ref=sr_1_1?ie=UTF8&qid=1424473354&sr=8-1&keywords=learning+python" target="_blank"><img class="alignleft wp-image-2231 size-thumbnail" src="http://tims.io/wp-content/uploads/2015/02/9k-150x150.jpg" alt="9k=" width="150" height="150" srcset="https://tims.io/img/2015/02/9k-150x150.jpg 150w, https://tims.io/img/2015/02/9k-60x60.jpg 60w" sizes="(max-width: 150px) 100vw, 150px" /></a>
 
 The following tutorial is meant to be a simple introduction into the Python programming language. It will cover the basics, from simple types and operations to functions, modules and object-oriented programming in Python this tutorial aims to get you started quickly.
 

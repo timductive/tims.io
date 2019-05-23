@@ -145,7 +145,7 @@ The distinction between a **Class** and its **Instances** is important to unders
 
 ## Inheritance
 
-[<img class="aligncenter size-full wp-image-2219" src="http://tims.io/wp-content/uploads/2015/02/inheritance1.png" alt="inheritance" width="688" height="532" srcset="https://tims.io/wp-content/uploads/2015/02/inheritance1.png 688w, https://tims.io/wp-content/uploads/2015/02/inheritance1-300x232.png 300w" sizes="(max-width: 688px) 100vw, 688px" />](http://tims.io/wp-content/uploads/2015/02/inheritance1.png)
+[<img class="aligncenter size-full wp-image-2219" src="http://tims.io/wp-content/uploads/2015/02/inheritance1.png" alt="inheritance" width="688" height="532" srcset="https://tims.io/img/2015/02/inheritance1.png 688w, https://tims.io/img/2015/02/inheritance1-300x232.png 300w" sizes="(max-width: 688px) 100vw, 688px" />](http://tims.io/wp-content/uploads/2015/02/inheritance1.png)
 
 &nbsp;
 

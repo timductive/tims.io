@@ -16,7 +16,7 @@ tags:
   - patio
 ---
 [  
-<img class="aligncenter size-full wp-image-2056" src="http://tims.io/wp-content/uploads/2013/10/1.jpg" alt="1" width="960" height="640" srcset="https://tims.io/wp-content/uploads/2013/10/1.jpg 960w, https://tims.io/wp-content/uploads/2013/10/1-300x200.jpg 300w, https://tims.io/wp-content/uploads/2013/10/1-720x480.jpg 720w" sizes="(max-width: 960px) 100vw, 960px" />](http://tims.io/wp-content/uploads/2013/10/1.jpg) 
+<img class="aligncenter size-full wp-image-2056" src="http://tims.io/wp-content/uploads/2013/10/1.jpg" alt="1" width="960" height="640" srcset="https://tims.io/img/2013/10/1.jpg 960w, https://tims.io/img/2013/10/1-300x200.jpg 300w, https://tims.io/img/2013/10/1-720x480.jpg 720w" sizes="(max-width: 960px) 100vw, 960px" />](http://tims.io/wp-content/uploads/2013/10/1.jpg) 
 
 # Step 1: Tell Your Friends
 
@@ -45,7 +45,7 @@ The wife was not buying it, but after some continued persistence I guaranteed he
 Here is a picture of us being happy together. (It&#8217;s from a long time ago)
 
 <p style="text-align: center;">
-  <a href="http://tims.io/wp-content/uploads/2013/11/100_1476.jpg"><img class="aligncenter  wp-image-2101" src="http://tims.io/wp-content/uploads/2013/11/100_1476.jpg" alt="100_1476" width="622" height="829" srcset="https://tims.io/wp-content/uploads/2013/11/100_1476.jpg 1728w, https://tims.io/wp-content/uploads/2013/11/100_1476-225x300.jpg 225w, https://tims.io/wp-content/uploads/2013/11/100_1476-768x1024.jpg 768w, https://tims.io/wp-content/uploads/2013/11/100_1476-660x880.jpg 660w" sizes="(max-width: 622px) 100vw, 622px" /></a>
+  <a href="http://tims.io/wp-content/uploads/2013/11/100_1476.jpg"><img class="aligncenter  wp-image-2101" src="http://tims.io/wp-content/uploads/2013/11/100_1476.jpg" alt="100_1476" width="622" height="829" srcset="https://tims.io/img/2013/11/100_1476.jpg 1728w, https://tims.io/img/2013/11/100_1476-225x300.jpg 225w, https://tims.io/img/2013/11/100_1476-768x1024.jpg 768w, https://tims.io/img/2013/11/100_1476-660x880.jpg 660w" sizes="(max-width: 622px) 100vw, 622px" /></a>
 </p>
 
 Let&#8217;s really hold on to the moment in the picture and cherish it. We are going to need it.
@@ -62,7 +62,7 @@ I had just finished telling him that it was go time.
 
 &#8220;Oh dude. I can&#8217;t make it, are we really doing this?&#8221; said Bebop as I had called him after calling Rocksteady.
 
-[<img class="aligncenter size-full wp-image-2100" src="http://tims.io/wp-content/uploads/2013/11/22.jpg" alt="22" width="960" height="720" srcset="https://tims.io/wp-content/uploads/2013/11/22.jpg 960w, https://tims.io/wp-content/uploads/2013/11/22-300x225.jpg 300w, https://tims.io/wp-content/uploads/2013/11/22-660x495.jpg 660w" sizes="(max-width: 960px) 100vw, 960px" />](http://tims.io/wp-content/uploads/2013/11/22.jpg)
+[<img class="aligncenter size-full wp-image-2100" src="http://tims.io/wp-content/uploads/2013/11/22.jpg" alt="22" width="960" height="720" srcset="https://tims.io/img/2013/11/22.jpg 960w, https://tims.io/img/2013/11/22-300x225.jpg 300w, https://tims.io/img/2013/11/22-660x495.jpg 660w" sizes="(max-width: 960px) 100vw, 960px" />](http://tims.io/wp-content/uploads/2013/11/22.jpg)
 
 &nbsp;
 
@@ -70,7 +70,7 @@ One thing to note, anytime that you have to get large things into your backyard,
 
 Rocksteady proved to be an excellent Bobcat driver as he had previous experience and soon the backyard was looking like a dirty, muddy mess!
 
-[<img class="aligncenter size-full wp-image-2104" src="http://tims.io/wp-content/uploads/2013/11/23.jpg" alt="23" width="720" height="960" srcset="https://tims.io/wp-content/uploads/2013/11/23.jpg 720w, https://tims.io/wp-content/uploads/2013/11/23-225x300.jpg 225w, https://tims.io/wp-content/uploads/2013/11/23-660x880.jpg 660w" sizes="(max-width: 720px) 100vw, 720px" />](http://tims.io/wp-content/uploads/2013/11/23.jpg)
+[<img class="aligncenter size-full wp-image-2104" src="http://tims.io/wp-content/uploads/2013/11/23.jpg" alt="23" width="720" height="960" srcset="https://tims.io/img/2013/11/23.jpg 720w, https://tims.io/img/2013/11/23-225x300.jpg 225w, https://tims.io/img/2013/11/23-660x880.jpg 660w" sizes="(max-width: 720px) 100vw, 720px" />](http://tims.io/wp-content/uploads/2013/11/23.jpg)
 
 &nbsp;
 
@@ -94,7 +94,7 @@ To make this part of the story shorter I spent the next weekend buying dirt and 
 
 Finally, it was seriously time to pour some concrete. So I called the place and scheduled a truck to come out on a Tuesday.
 
-[<img class="aligncenter size-full wp-image-2060" src="http://tims.io/wp-content/uploads/2013/10/5.jpg" alt="5" width="960" height="640" srcset="https://tims.io/wp-content/uploads/2013/10/5.jpg 960w, https://tims.io/wp-content/uploads/2013/10/5-300x200.jpg 300w, https://tims.io/wp-content/uploads/2013/10/5-720x480.jpg 720w" sizes="(max-width: 960px) 100vw, 960px" />](http://tims.io/wp-content/uploads/2013/10/5.jpg)
+[<img class="aligncenter size-full wp-image-2060" src="http://tims.io/wp-content/uploads/2013/10/5.jpg" alt="5" width="960" height="640" srcset="https://tims.io/img/2013/10/5.jpg 960w, https://tims.io/img/2013/10/5-300x200.jpg 300w, https://tims.io/img/2013/10/5-720x480.jpg 720w" sizes="(max-width: 960px) 100vw, 960px" />](http://tims.io/wp-content/uploads/2013/10/5.jpg)
 
 &nbsp;
 
@@ -106,7 +106,7 @@ Finally, it was seriously time to pour some concrete. So I called the place and 
 
 The night before the truck was to arrive I realized that I still had not quite filled in the patio up to 6 inches, and with only 8 1/2 yards of concrete coming some quick math said that I was in trouble. Luckily Bebop was staying the night because I didn&#8217;t trust him to actually arrive at 6 the next morning.<figure id="attachment_2062" aria-describedby="caption-attachment-2062" style="width: 960px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-2062" src="http://tims.io/wp-content/uploads/2013/10/7.jpg" alt="7" width="960" height="640" srcset="https://tims.io/wp-content/uploads/2013/10/7.jpg 960w, https://tims.io/wp-content/uploads/2013/10/7-300x200.jpg 300w, https://tims.io/wp-content/uploads/2013/10/7-720x480.jpg 720w" sizes="(max-width: 960px) 100vw, 960px" />](http://tims.io/wp-content/uploads/2013/10/7.jpg)<figcaption id="caption-attachment-2062" class="wp-caption-text">Would you trust this man?</figcaption></figure> 
+[<img class="size-full wp-image-2062" src="http://tims.io/wp-content/uploads/2013/10/7.jpg" alt="7" width="960" height="640" srcset="https://tims.io/img/2013/10/7.jpg 960w, https://tims.io/img/2013/10/7-300x200.jpg 300w, https://tims.io/img/2013/10/7-720x480.jpg 720w" sizes="(max-width: 960px) 100vw, 960px" />](http://tims.io/wp-content/uploads/2013/10/7.jpg)<figcaption id="caption-attachment-2062" class="wp-caption-text">Would you trust this man?</figcaption></figure> 
 
 So Bebop and I purchased more rocks and dirt and filled in the rest of the patio until about 2 in the morning.
 
@@ -116,13 +116,13 @@ So Bebop and I purchased more rocks and dirt and filled in the rest of the patio
 
 6 AM came very quickly the next day, actually 4 hours after we finished the dirt to be exact, and with it came Rocksteady. The concrete truck was showing up at 1 pm so we had all morning to do things. And man did we have things to do.
 
-[<img class="aligncenter size-full wp-image-2069" src="http://tims.io/wp-content/uploads/2013/10/14.jpg" alt="14" width="960" height="640" srcset="https://tims.io/wp-content/uploads/2013/10/14.jpg 960w, https://tims.io/wp-content/uploads/2013/10/14-300x200.jpg 300w, https://tims.io/wp-content/uploads/2013/10/14-720x480.jpg 720w" sizes="(max-width: 960px) 100vw, 960px" />](http://tims.io/wp-content/uploads/2013/10/14.jpg)
+[<img class="aligncenter size-full wp-image-2069" src="http://tims.io/wp-content/uploads/2013/10/14.jpg" alt="14" width="960" height="640" srcset="https://tims.io/img/2013/10/14.jpg 960w, https://tims.io/img/2013/10/14-300x200.jpg 300w, https://tims.io/img/2013/10/14-720x480.jpg 720w" sizes="(max-width: 960px) 100vw, 960px" />](http://tims.io/wp-content/uploads/2013/10/14.jpg)
 
 Crap, that&#8217;s not good enough. I feel like some concrete might escape&#8230;
 
 &nbsp;
 
-[<img class="aligncenter size-full wp-image-2066" src="http://tims.io/wp-content/uploads/2013/10/11.jpg" alt="11" width="960" height="640" srcset="https://tims.io/wp-content/uploads/2013/10/11.jpg 960w, https://tims.io/wp-content/uploads/2013/10/11-300x200.jpg 300w, https://tims.io/wp-content/uploads/2013/10/11-720x480.jpg 720w" sizes="(max-width: 960px) 100vw, 960px" />](http://tims.io/wp-content/uploads/2013/10/11.jpg)
+[<img class="aligncenter size-full wp-image-2066" src="http://tims.io/wp-content/uploads/2013/10/11.jpg" alt="11" width="960" height="640" srcset="https://tims.io/img/2013/10/11.jpg 960w, https://tims.io/img/2013/10/11-300x200.jpg 300w, https://tims.io/img/2013/10/11-720x480.jpg 720w" sizes="(max-width: 960px) 100vw, 960px" />](http://tims.io/wp-content/uploads/2013/10/11.jpg)
 
 Oh also, holy crap! Put some rebar or something and yeah, probably drill and epoxy it into the existing foundation! Science!
 
@@ -132,7 +132,7 @@ Oh also, holy crap! Put some rebar or something and yeah, probably drill and epo
 
 Wait crap, did we do the rebar? No don&#8217;t do that yet. First, COMPACT THAT SHIT!
 
-[<img class="aligncenter size-full wp-image-2065" src="http://tims.io/wp-content/uploads/2013/10/10.jpg" alt="10" width="960" height="640" srcset="https://tims.io/wp-content/uploads/2013/10/10.jpg 960w, https://tims.io/wp-content/uploads/2013/10/10-300x200.jpg 300w, https://tims.io/wp-content/uploads/2013/10/10-720x480.jpg 720w" sizes="(max-width: 960px) 100vw, 960px" />](http://tims.io/wp-content/uploads/2013/10/10.jpg)
+[<img class="aligncenter size-full wp-image-2065" src="http://tims.io/wp-content/uploads/2013/10/10.jpg" alt="10" width="960" height="640" srcset="https://tims.io/img/2013/10/10.jpg 960w, https://tims.io/img/2013/10/10-300x200.jpg 300w, https://tims.io/img/2013/10/10-720x480.jpg 720w" sizes="(max-width: 960px) 100vw, 960px" />](http://tims.io/wp-content/uploads/2013/10/10.jpg)
 
 &nbsp;
 
@@ -144,7 +144,7 @@ There comes a point in time when you are on the cusp of doing something great wh
 
 Dispell these thoughts! These thoughts are the difference between being awesome and having a healthy view of your own limitations.
 
-[<img class="aligncenter size-full wp-image-2060" src="http://tims.io/wp-content/uploads/2013/10/5.jpg" alt="5" width="960" height="640" srcset="https://tims.io/wp-content/uploads/2013/10/5.jpg 960w, https://tims.io/wp-content/uploads/2013/10/5-300x200.jpg 300w, https://tims.io/wp-content/uploads/2013/10/5-720x480.jpg 720w" sizes="(max-width: 960px) 100vw, 960px" />](http://tims.io/wp-content/uploads/2013/10/5.jpg)
+[<img class="aligncenter size-full wp-image-2060" src="http://tims.io/wp-content/uploads/2013/10/5.jpg" alt="5" width="960" height="640" srcset="https://tims.io/img/2013/10/5.jpg 960w, https://tims.io/img/2013/10/5-300x200.jpg 300w, https://tims.io/img/2013/10/5-720x480.jpg 720w" sizes="(max-width: 960px) 100vw, 960px" />](http://tims.io/wp-content/uploads/2013/10/5.jpg)
 
 ## _ Too late! The truck is here!_
 
@@ -160,11 +160,11 @@ One of the most terrible feelings in the world is watching someone else&#8217;s 
 
 &#8220;Let me get my camera!&#8221; yelled Bebop as he trotted past a bewildered cement truck driver.
 
-[<img class="aligncenter size-full wp-image-2063" src="http://tims.io/wp-content/uploads/2013/10/8.jpg" alt="8" width="960" height="640" srcset="https://tims.io/wp-content/uploads/2013/10/8.jpg 960w, https://tims.io/wp-content/uploads/2013/10/8-300x200.jpg 300w, https://tims.io/wp-content/uploads/2013/10/8-720x480.jpg 720w" sizes="(max-width: 960px) 100vw, 960px" />](http://tims.io/wp-content/uploads/2013/10/8.jpg)Pro Tip: Maybe spend some time researching and acquiring the tools that professionals use before you result to, hey let&#8217;s use this 2&#215;4 for everything!
+[<img class="aligncenter size-full wp-image-2063" src="http://tims.io/wp-content/uploads/2013/10/8.jpg" alt="8" width="960" height="640" srcset="https://tims.io/img/2013/10/8.jpg 960w, https://tims.io/img/2013/10/8-300x200.jpg 300w, https://tims.io/img/2013/10/8-720x480.jpg 720w" sizes="(max-width: 960px) 100vw, 960px" />](http://tims.io/wp-content/uploads/2013/10/8.jpg)Pro Tip: Maybe spend some time researching and acquiring the tools that professionals use before you result to, hey let&#8217;s use this 2&#215;4 for everything!
 
 This wasn&#8217;t so bad though, my shoes aren&#8217;t even getting dirty.
 
-[<img class="aligncenter size-full wp-image-2057" src="http://tims.io/wp-content/uploads/2013/10/2.jpg" alt="2" width="960" height="640" srcset="https://tims.io/wp-content/uploads/2013/10/2.jpg 960w, https://tims.io/wp-content/uploads/2013/10/2-300x200.jpg 300w, https://tims.io/wp-content/uploads/2013/10/2-720x480.jpg 720w" sizes="(max-width: 960px) 100vw, 960px" />](http://tims.io/wp-content/uploads/2013/10/2.jpg)After a while though, this gets exhausting. In retrospect, I should have realized that having 8 and a half tons of concrete delivered to my house means that I will be pushing and moving a literal [elephant](http://en.wikipedia.org/wiki/Elephant) amount of concrete using primarily sticks and measly, pasty inside-y arms.
+[<img class="aligncenter size-full wp-image-2057" src="http://tims.io/wp-content/uploads/2013/10/2.jpg" alt="2" width="960" height="640" srcset="https://tims.io/img/2013/10/2.jpg 960w, https://tims.io/img/2013/10/2-300x200.jpg 300w, https://tims.io/img/2013/10/2-720x480.jpg 720w" sizes="(max-width: 960px) 100vw, 960px" />](http://tims.io/wp-content/uploads/2013/10/2.jpg)After a while though, this gets exhausting. In retrospect, I should have realized that having 8 and a half tons of concrete delivered to my house means that I will be pushing and moving a literal [elephant](http://en.wikipedia.org/wiki/Elephant) amount of concrete using primarily sticks and measly, pasty inside-y arms.
 
 Also, we should totally measure concrete in elephants.
 
@@ -172,7 +172,7 @@ Also, we should totally measure concrete in elephants.
 
 # Step 11: Listen To Your Wife Tell You &#8220;I Told You So&#8221;
 
-[<img class="aligncenter size-full wp-image-2056" src="http://tims.io/wp-content/uploads/2013/10/1.jpg" alt="1" width="960" height="640" srcset="https://tims.io/wp-content/uploads/2013/10/1.jpg 960w, https://tims.io/wp-content/uploads/2013/10/1-300x200.jpg 300w, https://tims.io/wp-content/uploads/2013/10/1-720x480.jpg 720w" sizes="(max-width: 960px) 100vw, 960px" />](http://tims.io/wp-content/uploads/2013/10/1.jpg)
+[<img class="aligncenter size-full wp-image-2056" src="http://tims.io/wp-content/uploads/2013/10/1.jpg" alt="1" width="960" height="640" srcset="https://tims.io/img/2013/10/1.jpg 960w, https://tims.io/img/2013/10/1-300x200.jpg 300w, https://tims.io/img/2013/10/1-720x480.jpg 720w" sizes="(max-width: 960px) 100vw, 960px" />](http://tims.io/wp-content/uploads/2013/10/1.jpg)
 
 &#8220;Damn&#8221;, I was thinking at the time. &#8220;That looks pro as shit&#8221;. (Grammar thought: &#8220;Pro as shit&#8221; doesn&#8217;t make sense at all)
 
@@ -222,7 +222,7 @@ It&#8217;s been almost a year since I started this project and it&#8217;s been 8
 
 I hired a contractor to build the roof. While that went much better, that is a story to share some other time. Here&#8217;s the finished product.
 
-[<img class="aligncenter size-full wp-image-2139" src="http://tims.io/wp-content/uploads/2014/06/patio1.jpg" alt="patio1" width="640" height="640" srcset="https://tims.io/wp-content/uploads/2014/06/patio1.jpg 640w, https://tims.io/wp-content/uploads/2014/06/patio1-150x150.jpg 150w, https://tims.io/wp-content/uploads/2014/06/patio1-300x300.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />](http://tims.io/wp-content/uploads/2014/06/patio1.jpg)
+[<img class="aligncenter size-full wp-image-2139" src="http://tims.io/wp-content/uploads/2014/06/patio1.jpg" alt="patio1" width="640" height="640" srcset="https://tims.io/img/2014/06/patio1.jpg 640w, https://tims.io/img/2014/06/patio1-150x150.jpg 150w, https://tims.io/img/2014/06/patio1-300x300.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />](http://tims.io/wp-content/uploads/2014/06/patio1.jpg)
 
 &nbsp;
 
@@ -230,7 +230,7 @@ I hired a contractor to build the roof. While that went much better, that is a s
 
 And here is the patio in use at Owen&#8217;s first birthday party.
 
-[<img class="aligncenter size-full wp-image-2140" src="http://tims.io/wp-content/uploads/2014/06/patio2.jpg" alt="patio2" width="640" height="640" srcset="https://tims.io/wp-content/uploads/2014/06/patio2.jpg 640w, https://tims.io/wp-content/uploads/2014/06/patio2-150x150.jpg 150w, https://tims.io/wp-content/uploads/2014/06/patio2-300x300.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />](http://tims.io/wp-content/uploads/2014/06/patio2.jpg)
+[<img class="aligncenter size-full wp-image-2140" src="http://tims.io/wp-content/uploads/2014/06/patio2.jpg" alt="patio2" width="640" height="640" srcset="https://tims.io/img/2014/06/patio2.jpg 640w, https://tims.io/img/2014/06/patio2-150x150.jpg 150w, https://tims.io/img/2014/06/patio2-300x300.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />](http://tims.io/wp-content/uploads/2014/06/patio2.jpg)
 
 **Total cost: $5500.00**
 
