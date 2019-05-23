@@ -29,3 +29,5 @@ fields:
 - type: list
   name: categories
   label: categories
+pages:
+- _posts/thoughts-on-being-an-engineering-director.md
