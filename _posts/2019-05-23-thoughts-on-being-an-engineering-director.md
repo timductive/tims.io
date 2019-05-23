@@ -12,7 +12,7 @@ categories:
 - management
 
 ---
-# Thoughts on being an Engineering Director
+Recently, I've been reflecting on my last few years in an Engineering Director role and how I would define the role today. Here are a few things I had to learn, mostly the hard way, by screwing it up at first.
 
 ### 1. Communicate Simply Based on your Audience
 
