@@ -6,7 +6,7 @@ author: Tim Schnell
 layout: post
 guid: https://tims.io/?p=2403
 permalink: "/outcome-oriented-thinking-for-teams/"
-bigimg: ''
+image: ''
 categories:
 - Blog
 
