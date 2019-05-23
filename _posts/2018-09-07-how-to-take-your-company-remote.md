@@ -6,7 +6,6 @@ author: Tim Schnell
 layout: post
 guid: https://tims.io/?p=2395
 permalink: /how-to-take-your-company-remote/
-image: /wp-content/uploads/2018/09/adult-business-coffee-1181248-e1536358746330.jpg
 categories:
   - Blog
 tags:
