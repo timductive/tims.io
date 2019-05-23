@@ -18,14 +18,8 @@ fields:
   name: layout
   label: layout
 - type: text
-  name: guid
-  label: guid
-- type: text
   name: permalink
   label: permalink
-- type: file
-  name: bigimg
-  label: bigimg
 - type: list
   name: categories
   label: categories
