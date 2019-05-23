@@ -5,7 +5,6 @@ date: 2019-05-23 00:00:00 -0500
 author: Tim Schnell
 layout: post
 guid: ''
-bigimg: ''
 categories:
 - engineering
 - blog
