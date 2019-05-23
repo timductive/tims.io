@@ -8,7 +8,6 @@ guid: https://tims.io/?p=2403
 permalink: "/outcome-oriented-thinking-for-teams/"
 categories:
 - Blog
-image: ''
 
 ---
 **Outcome-oriented thinking** is the ability to focus on the desired results, instead of the process, effort or tactics that you take to get there. It is the idea that nothing else matters other than achieving the results. The process that you take or the effort that you put in, while they are contributors to the final outcome, are not necessarily the drivers to focus on.
