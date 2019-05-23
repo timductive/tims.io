@@ -13,7 +13,6 @@ tags:
   - work from home
 ---
 ## Why Remote?
-
 The benefits to having a remote-friendly environment are many and worthy of their own article, but the primary ones include:
 
   * Talent is not limited by geography, opportunity historically has been 

@@ -6,7 +6,6 @@ author: Tim Schnell
 layout: post
 guid: https://tims.io/?p=2360
 permalink: /instagram-challenge/
-image: /wp-content/uploads/2018/08/instagram.jpg
 categories:
   - Blog
   - Subscription Box

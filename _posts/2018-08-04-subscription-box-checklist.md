@@ -6,7 +6,6 @@ author: Tim Schnell
 layout: post
 guid: http://tims.io/?p=2322
 permalink: /subscription-box-checklist/
-image: /wp-content/uploads/2018/08/subbox2.jpg
 categories:
   - Blog
   - Subscription Box

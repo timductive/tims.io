@@ -8,7 +8,6 @@ guid: http://tims.io/?p=2262
 permalink: /the-startup-family/
 dsq_thread_id:
   - "4876150571"
-image: /wp-content/uploads/2016/06/family-5.jpg
 categories:
   - Blog
 ---

@@ -6,7 +6,6 @@ author: Tim Schnell
 layout: post
 guid: https://tims.io/?p=2382
 permalink: /subscription-box-accounting-spreadsheet/
-image: /wp-content/uploads/2018/08/Screen-Shot-2018-08-21-at-1.39.54-PM.png
 categories:
   - Blog
   - Subscription Box

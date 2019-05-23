@@ -6,7 +6,6 @@ author: Tim Schnell
 layout: post
 guid: https://tims.io/?p=2366
 permalink: /5-kinds-of-subscription-boxes/
-image: /wp-content/uploads/2018/08/StockSnap_7RXXVCE42D.jpg
 categories:
   - Blog
   - Subscription Box

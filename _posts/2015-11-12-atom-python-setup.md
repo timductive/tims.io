@@ -8,7 +8,6 @@ guid: http://tims.io/?p=2256
 permalink: /atom-python-setup/
 dsq_thread_id:
   - "4313719271"
-image: /wp-content/uploads/2015/11/atom.jpg
 categories:
   - Code
   - Python
