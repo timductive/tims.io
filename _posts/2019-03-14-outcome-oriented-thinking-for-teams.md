@@ -8,7 +8,7 @@ guid: https://tims.io/?p=2403
 permalink: "/outcome-oriented-thinking-for-teams/"
 categories:
 - Blog
-image: "/2019/03/Screen-Shot-2019-03-12-at-5.46.03-PM.png"
+image: "{{ site.baseurl }}/2019/03/Screen-Shot-2019-03-12-at-5.46.03-PM.png"
 
 ---
 ![](/2019/03/Screen-Shot-2019-03-12-at-5.46.03-PM.png)
