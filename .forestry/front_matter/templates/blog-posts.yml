@@ -24,4 +24,5 @@ fields:
   name: categories
   label: categories
 pages:
+- _posts/how-to-stream-to-zoom.md
 - _posts/on-hiring.md
