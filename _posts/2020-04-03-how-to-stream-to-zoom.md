@@ -1,7 +1,7 @@
 ---
 id: ''
 title: How to Stream Video Games to Zoom
-date: 
+date: 2020-04-03 00:00:00 -0500
 author: Tim Schnell
 layout: post
 categories:
