@@ -10,8 +10,6 @@ categories:
 - blog
 
 ---
-# How to Stream Video Games to Zoom
-
 One of the big challenges with working at a remote/distributed company is that it is difficult to replace the watercooler, off-the-cuff team bonding experience. Video calls tend to focus on business and meeting efficiency and it is awkward to try and shoot the breeze for a few minutes and learn something personal about each other.
 
 One solution that my team has discovered is video games, and in this case specifically, [Overcooked 2](https://store.steampowered.com/app/728880/Overcooked_2/) on the Nintendo Switch. For deeper thoughts on how to socialize from home, see my companion article, this article will focus on the nuts and bolts of getting your computer setup.
